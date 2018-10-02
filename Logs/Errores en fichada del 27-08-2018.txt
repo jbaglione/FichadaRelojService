@@ -1,0 +1,76 @@
+06:52	Ok	ProcesarRelojes()	Procesando 1 relojes
+06:52	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+06:52	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+06:52	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+06:52	Ok	ConnectServer()	Cache ConnectionStringSERVER = 192.168.4.20;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+06:52	Ok	clkZKSoft()	Envios a Server1: Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+06:52	Ok	clkZKSoft()	Cantidad de Registros: 1
+06:52	Ok	clkZKSoft()	Revisando Legajo: 9120
+06:52	Ok	clkZKSoft()	Fecha del Registro: 2018-08-27 06:49:23
+06:52	Ok	clkZKSoft()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9120", "2018-08-27 06:49:23", "CLOCK")
+06:52	Error	clkZKSoft()	SetFichada Error: FOREIGN KEY Constraint failed referential check upon INSERT of row in referencing table
+06:52	Ok	ConnectServer()	Cache ConnectionStringSERVER = 200.49.156.125;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+06:52	Ok	clkZKSoft()	Envios a Server2: Server=200.49.156.125;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+06:52	Ok	clkZKSoft()	Cantidad de Registros: 1
+06:52	Ok	clkZKSoft()	Revisando Legajo: 9120
+06:52	Ok	clkZKSoft()	Fecha del Registro: 2018-08-27 06:49:23
+06:52	Ok	clkZKSoft()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9120", "2018-08-27 06:49:23", "CLOCK")
+06:52	Error	clkZKSoft()	SetFichada Error: FOREIGN KEY Constraint failed referential check upon INSERT of row in referencing table
+06:52	Ok	clkZKSoft()	Vaciar Reloj 1 Ip: 192.168.4.240:4370
+06:52	Ok	clkZKSoft()	Se vació RelojId 1 Ip: 192.168.4.240:4370
+06:52	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+
+
+07:50	Ok	ProcesarRelojes()	Procesando 1 relojes
+07:50	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+07:50	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+07:50	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+07:50	Ok	ConnectServer()	Cache ConnectionStringSERVER = 192.168.4.20;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+07:50	Ok	clkZKSoft()	Envios a Server1: Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+07:50	Ok	clkZKSoft()	Cantidad de Registros: 1
+07:50	Ok	clkZKSoft()	Revisando Legajo: 9121
+07:50	Ok	clkZKSoft()	Fecha del Registro: 2018-08-27 07:47:31
+07:50	Ok	clkZKSoft()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9121", "2018-08-27 07:47:31", "CLOCK")
+07:50	Error	clkZKSoft()	SetFichada Error: FOREIGN KEY Constraint failed referential check upon INSERT of row in referencing table
+07:50	Ok	ConnectServer()	Cache ConnectionStringSERVER = 200.49.156.125;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+07:50	Ok	clkZKSoft()	Envios a Server2: Server=200.49.156.125;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+07:50	Ok	clkZKSoft()	Cantidad de Registros: 1
+07:50	Ok	clkZKSoft()	Revisando Legajo: 9121
+07:50	Ok	clkZKSoft()	Fecha del Registro: 2018-08-27 07:47:31
+07:50	Ok	clkZKSoft()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9121", "2018-08-27 07:47:31", "CLOCK")
+07:50	Error	clkZKSoft()	SetFichada Error: FOREIGN KEY Constraint failed referential check upon INSERT of row in referencing table
+07:50	Ok	clkZKSoft()	Vaciar Reloj 1 Ip: 192.168.4.240:4370
+07:50	Ok	clkZKSoft()	Se vació RelojId 1 Ip: 192.168.4.240:4370
+07:50	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+
+
+15:00	Ok	ProcesarRelojes()	Procesando 1 relojes
+15:00	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+15:00	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+15:00	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+15:00	Ok	ConnectServer()	Cache ConnectionStringSERVER = 192.168.4.20;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+15:00	Ok	clkZKSoft()	Envios a Server1: Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+15:00	Ok	clkZKSoft()	Cantidad de Registros: 1
+15:00	Ok	clkZKSoft()	Revisando Legajo: 9121
+15:00	Ok	clkZKSoft()	Fecha del Registro: 2018-08-27 14:58:43
+15:00	Ok	clkZKSoft()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9121", "2018-08-27 14:58:43", "CLOCK")
+15:00	Error	clkZKSoft()	SetFichada Error: FOREIGN KEY Constraint failed referential check upon INSERT of row in referencing table
+15:00	Ok	ConnectServer()	Cache ConnectionStringSERVER = 200.49.156.125;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+15:00	Ok	clkZKSoft()	Envios a Server2: Server=200.49.156.125;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+15:00	Ok	clkZKSoft()	Cantidad de Registros: 1
+15:00	Ok	clkZKSoft()	Revisando Legajo: 9121
+15:00	Ok	clkZKSoft()	Fecha del Registro: 2018-08-27 14:58:43
+15:00	Ok	clkZKSoft()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9121", "2018-08-27 14:58:43", "CLOCK")
+15:00	Error	clkZKSoft()	SetFichada Error: FOREIGN KEY Constraint failed referential check upon INSERT of row in referencing table
+15:00	Ok	clkZKSoft()	Vaciar Reloj 1 Ip: 192.168.4.240:4370
+15:00	Ok	clkZKSoft()	Se vació RelojId 1 Ip: 192.168.4.240:4370
+15:00	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+
+
+ok-->9103
+200.49.156.125 -->Donado
+
+
+
+
+

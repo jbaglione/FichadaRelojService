@@ -1,0 +1,13 @@
+Log 10/7/2018 12:00:00 a. m.
+15:49	Ok	OnStart	Servicio inicializado.
+15:49	Error	MailService	No se pudo enviar el mail. Error: System.ArgumentNullException: El valor no puede ser nulo.
+Nombre del parámetro: address
+   en System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   en FichadaRelojService.CustomMail.Send()
+15:49	Error	ConnectServer()	 - Referencia a objeto no establecida como instancia de un objeto.
+15:50	Error	ProcesarRelojes()	Referencia a objeto no establecida como instancia de un objeto.
+15:51	Ok	OnStop	Se ejecutó el método OnStop, el servicio deja de estar activo.
+15:51	Error	MailService	No se pudo enviar el mail. Error: System.ArgumentNullException: El valor no puede ser nulo.
+Nombre del parámetro: address
+   en System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   en FichadaRelojService.CustomMail.Send()

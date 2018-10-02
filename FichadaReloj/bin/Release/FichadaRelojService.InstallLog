@@ -1,0 +1,26 @@
+﻿Instalando ensamblado 'C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.InstallLog
+   assemblypath = C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.exe
+Deshaciendo ensamblado 'C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.InstallLog
+   assemblypath = C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.InstallLog
+   assemblypath = C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.exe
+Instalando el servicio Fichada Reloj Service V1.0...
+El servicio Fichada Reloj Service V1.0 se ha instalado correctamente.
+Creando el origen de EventLog Fichada Reloj Service V1.0 en el registro Application...
+Confirmando ensamblado 'C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.InstallLog
+   assemblypath = C:\Users\Paramedic\Documents\Baglione\Codigo\OFF_LINE\FichadaRelojServicie\FichadaReloj\bin\Release\FichadaRelojService.exe

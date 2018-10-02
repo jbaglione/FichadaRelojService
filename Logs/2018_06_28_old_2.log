@@ -1,0 +1,37 @@
+Log 28/06/2018 00:00:00
+13:17	Ok	OnStart	Servicio inicializado.
+13:17	Ok	MailService	Se ha enviado un mail con el asunto: Se ha inicializado el servicio de Fichada
+13:17	Ok	LeerRelojes()	Buscando relojes en 
+13:17	Ok	LeerRelojes()	Se encontraron 1 relojes
+13:18	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:18	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:19	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+13:19	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+13:19	Ok	clkZKSoft()	Envios a Server1: Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+13:19	Ok	clkZKSoft()	Revisando Legajo: 9109
+13:19	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 11:50:44
+13:19	Ok	clkZKSoft()	Respuesta vSQLCode: -119
+13:19	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:19	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 21:45:36
+13:19	Ok	clkZKSoft()	Respuesta vSQLCode: -119
+13:19	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:19	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:7:40
+13:19	Error	clkZKSoft()	No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:19	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:19	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:20	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+13:20	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+13:20	Ok	clkZKSoft()	Envios a Server1: Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+13:20	Ok	clkZKSoft()	Revisando Legajo: 9109
+13:20	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 11:50:44
+13:20	Ok	clkZKSoft()	Respuesta vSQLCode: -119
+13:20	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:20	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 21:45:36
+13:20	Ok	clkZKSoft()	Respuesta vSQLCode: -119
+13:20	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:20	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:7:40
+13:20	Error	clkZKSoft()	No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:20	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:20	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:21	Ok	OnStop	Se ejecutó el método OnStop, el servicio deja de estar activo.
+13:21	Ok	MailService	Se ha enviado un mail con el asunto: Se ha detenido el servicio de Fichada

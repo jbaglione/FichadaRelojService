@@ -1,0 +1,151 @@
+Log 28/06/2018 00:00:00
+13:33	Ok	OnStart	Servicio inicializado.
+13:34	Ok	MailService	Se ha enviado un mail con el asunto: Se ha inicializado el servicio de Fichada
+13:34	Ok	LeerRelojes()	Buscando relojes en 
+13:34	Ok	LeerRelojes()	Se encontraron 1 relojes
+13:34	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:34	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:35	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+13:35	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+13:35	Ok	clkZKSoft()	Envios a Server1: Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+13:35	Ok	clkZKSoft()	Cantidad de Registros: 7
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9109
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 11:50:44
+13:35	Ok	clkZKSoft()	Respuesta vSQLCode: -119
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 21:45:36
+13:35	Ok	clkZKSoft()	Respuesta vSQLCode: -119
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:7:40
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9036
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:54:10
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9114
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 7:0:19
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 22:41:17
+13:35	Ok	clkZKSoft()	Respuesta vSQLCode: -119
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-28 13:32:56
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Envios a Server2: Server=200.49.156.125;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+13:35	Ok	clkZKSoft()	Cantidad de Registros: 7
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9109
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 11:50:44
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 21:45:36
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:7:40
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9036
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:54:10
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9114
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 7:0:19
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 22:41:17
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Revisando Legajo: 9096
+13:35	Ok	clkZKSoft()	Fecha del Registro: 2018-6-28 13:32:56
+13:35	Ok	clkZKSoft()	Exepcion en SetFichada: No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+13:35	Ok	clkZKSoft()	Vaciar Reloj 1 Ip: 192.168.4.240:4370
+13:35	Ok	clkZKSoft()	Se vació RelojId 1 Ip: 192.168.4.240:4370
+13:35	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+13:35	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:35	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:36	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:36	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:36	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:37	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:37	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:37	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:38	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:38	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:38	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:39	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:39	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:39	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:40	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:40	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:40	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:41	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:41	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:41	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:42	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:42	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:42	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:43	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:43	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:43	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:44	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:44	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:44	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:45	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:45	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:45	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:46	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:46	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:46	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:47	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:47	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:47	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:48	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:48	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:48	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:49	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:49	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:49	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:50	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:50	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:50	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:51	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:51	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:51	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:52	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:52	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:52	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:53	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:53	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:53	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:54	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:54	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:54	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:55	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:55	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:55	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:56	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:56	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:56	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:57	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:57	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:57	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:58	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:58	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:58	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+13:59	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+13:59	Ok	ProcesarRelojes()	Procesando 1 relojes
+13:59	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:00	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+14:00	Ok	ProcesarRelojes()	Procesando 1 relojes
+14:00	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:01	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+14:01	Ok	ProcesarRelojes()	Procesando 1 relojes
+14:01	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:02	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+14:02	Ok	ProcesarRelojes()	Procesando 1 relojes
+14:02	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:03	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+14:03	Ok	ProcesarRelojes()	Procesando 1 relojes
+14:03	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:04	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+14:04	Ok	ProcesarRelojes()	Procesando 1 relojes
+14:04	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:05	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+14:05	Ok	ProcesarRelojes()	Procesando 1 relojes
+14:05	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:06	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370

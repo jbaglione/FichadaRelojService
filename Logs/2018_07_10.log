@@ -1,0 +1,341 @@
+Log 10/07/2018 00:00:00
+16:54	Ok	OnStart	Servicio inicializado.
+16:54	Ok	MailService	Se ha enviado un mail con el asunto: Se ha inicializado el servicio de Fichada
+16:54	Ok	ConnectServer()	Cache ConnectionStringSERVER = 192.168.4.20;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+16:54	Ok	LeerRelojes()	Buscando relojes en 
+16:54	Ok	LeerRelojes()	Se encontraron 1 relojes
+16:55	Ok	ProcesarRelojes()	Procesando 1 relojes
+16:55	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+16:55	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+16:55	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+16:55	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+16:56	Ok	ProcesarRelojes()	Procesando 1 relojes
+16:56	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+16:56	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+16:56	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+16:56	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+16:57	Ok	ProcesarRelojes()	Procesando 1 relojes
+16:57	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+16:57	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+16:57	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+16:57	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+16:58	Ok	ProcesarRelojes()	Procesando 1 relojes
+16:58	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+16:58	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+16:58	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+16:58	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+16:59	Ok	ProcesarRelojes()	Procesando 1 relojes
+16:59	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+16:59	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+16:59	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+16:59	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:00	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:00	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:00	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:00	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:00	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:01	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:01	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:01	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:01	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:01	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:02	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:02	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:02	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:02	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:02	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:03	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:03	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:03	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:03	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:03	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:04	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:04	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:04	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:04	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:04	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:05	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:05	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:05	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:05	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:05	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:06	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:06	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:06	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:06	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:06	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:07	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:07	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:07	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:07	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:07	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:08	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:08	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:08	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:08	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:08	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:09	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:09	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:09	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:09	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:09	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:10	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:10	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:10	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:10	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:10	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:11	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:11	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:11	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:11	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:11	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:12	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:12	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:12	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:12	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:12	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:13	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:13	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:13	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:13	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:13	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:14	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:14	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:14	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:14	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:14	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:15	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:15	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:15	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:15	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:15	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:16	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:16	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:16	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:16	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:16	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:17	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:17	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:17	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:17	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:17	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:18	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:18	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:18	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:18	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:18	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:19	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:19	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:19	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:19	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:19	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:20	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:20	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:20	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:20	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:20	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:21	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:21	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:21	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:21	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:21	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:22	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:22	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:22	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:22	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:22	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:23	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:23	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:23	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:23	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:23	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:24	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:24	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:24	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:24	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:24	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:25	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:25	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:25	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:25	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:25	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:26	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:26	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:26	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:26	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:26	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:27	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:27	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:27	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:27	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:27	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:28	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:28	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:28	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:28	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:28	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:29	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:29	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:29	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:29	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:29	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:30	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:30	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:30	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:30	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:30	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:31	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:31	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:31	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:31	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:31	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:32	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:32	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:32	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:32	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:32	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:33	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:33	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:33	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:33	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:33	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:34	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:34	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:34	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:34	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:34	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:35	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:35	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:35	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:35	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:35	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:36	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:36	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:36	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:36	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:36	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:37	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:37	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:37	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:37	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:37	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:38	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:38	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:38	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:38	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:38	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:39	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:39	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:39	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:39	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:39	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:40	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:40	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:40	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:40	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:40	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:41	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:41	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:41	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:41	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:41	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:42	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:42	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:42	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:42	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:42	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:43	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:43	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:43	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:43	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:43	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:44	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:44	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:44	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:44	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:44	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:45	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:45	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:45	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:45	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:45	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:46	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:46	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:46	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:46	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:46	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:47	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:47	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:47	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:47	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:47	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:48	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:48	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:48	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:48	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:48	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:49	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:49	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:49	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:49	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:49	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:50	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:50	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:50	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:50	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:50	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:51	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:51	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:51	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:51	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:51	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:52	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:52	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:52	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:52	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:52	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:53	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:53	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:53	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:53	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:53	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:54	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:54	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:54	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:54	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:54	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:55	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:55	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:55	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:55	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:55	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:56	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:56	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:56	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:56	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:56	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:57	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:57	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:57	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:57	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:57	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:58	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:58	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:58	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:58	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:58	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+17:59	Ok	ProcesarRelojes()	Procesando 1 relojes
+17:59	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+17:59	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+17:59	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+17:59	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+18:00	Ok	ProcesarRelojes()	Procesando 1 relojes
+18:00	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+18:00	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+18:00	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+18:00	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+18:01	Ok	ProcesarRelojes()	Procesando 1 relojes
+18:01	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+18:01	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+18:01	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+18:01	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370

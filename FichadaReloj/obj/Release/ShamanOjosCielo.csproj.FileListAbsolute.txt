@@ -1,0 +1,11 @@
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\bin\Release\ShamanOjosDelCieloService.exe.config
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\bin\Release\ShamanOjosDelCieloService.exe
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\bin\Release\ShamanOjosDelCieloService.pdb
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\obj\Release\ShamanOjosCielo.csprojResolveAssemblyReference.cache
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\obj\Release\ShamanOjosDelCieloService.ProjectInstaller.resources
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\obj\Release\ShamanOjosDelCieloService.Service1.resources
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\obj\Release\ShamanOjosCielo.csproj.GenerateResource.Cache
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\obj\Release\ShamanOjosDelCieloService.exe
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\obj\Release\ShamanOjosDelCieloService.pdb
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\bin\Release\InterSystems.Data.CacheClient.dll
+C:\Users\jbaglione\Source\Repos\OFF_LINE\ShamanOjosCielo\ShamanOjosCielo\bin\Release\ShamanClases.dll

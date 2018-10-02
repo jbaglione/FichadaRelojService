@@ -1,0 +1,85 @@
+Log 10/07/2018 00:00:00
+12:46	Ok	OnStart	Servicio inicializado.
+12:46	Ok	MailService	Se ha enviado un mail con el asunto: Se ha inicializado el servicio de Fichada
+12:46	Ok	ConnectServer()	Cache ConnectionStringSERVER = 192.168.4.20;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+12:46	Ok	LeerRelojes()	Buscando relojes en 
+12:46	Ok	LeerRelojes()	Se encontraron 1 relojes
+12:47	Ok	ProcesarRelojes()	Procesando 1 relojes
+12:47	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+12:47	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+12:47	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+12:47	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+12:48	Ok	ProcesarRelojes()	Procesando 1 relojes
+12:48	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+12:48	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+12:48	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+12:48	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+12:49	Ok	ProcesarRelojes()	Procesando 1 relojes
+12:49	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+12:49	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+12:49	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+12:49	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+12:50	Ok	ProcesarRelojes()	Procesando 1 relojes
+12:50	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+12:50	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+12:50	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+12:50	Ok	ConnectServer()	Cache ConnectionStringSERVER = 192.168.4.20;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+12:50	Ok	clkZKSoft()	Envios a Server1: Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+12:50	Ok	clkZKSoft()	Cantidad de Registros: 1
+12:50	Ok	clkZKSoft()	Revisando Legajo: 9096
+12:50	Ok	clkZKSoft()	Fecha del Registro: 2018-7-10 12:47:44
+12:50	Ok	clkZKSoft()	SetFichada CacheDebug: 
+12:50	Error	clkZKSoft()	SetFichada Error: 
+12:50	Ok	ConnectServer()	Cache ConnectionStringSERVER = 200.49.156.125;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+12:50	Ok	clkZKSoft()	Envios a Server2: Server=200.49.156.125;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+12:50	Ok	clkZKSoft()	Cantidad de Registros: 1
+12:50	Ok	clkZKSoft()	Revisando Legajo: 9096
+12:50	Ok	clkZKSoft()	Fecha del Registro: 2018-7-10 12:47:44
+12:50	Ok	clkZKSoft()	SetFichada CacheDebug: 
+12:50	Error	clkZKSoft()	SetFichada Error: 
+12:50	Ok	clkZKSoft()	Vaciar Reloj 1 Ip: 192.168.4.240:4370
+12:50	Ok	clkZKSoft()	Se vació RelojId 1 Ip: 192.168.4.240:4370
+12:50	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+12:51	Ok	ProcesarRelojes()	Procesando 1 relojes
+12:51	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+12:51	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+12:51	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+12:51	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+12:52	Ok	ProcesarRelojes()	Procesando 1 relojes
+12:52	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+12:52	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+12:52	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+12:52	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+12:53	Ok	ProcesarRelojes()	Procesando 1 relojes
+12:53	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+12:53	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+12:53	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+12:53	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+12:54	Ok	ProcesarRelojes()	Procesando 1 relojes
+12:54	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+12:54	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+12:54	Ok	clkZKSoft()	No hay fichadas en 192.168.4.240:4370
+12:54	Ok	clkZKSoft()	Desconectar Reloj 192.168.4.240:4370
+12:54	Ok	OnStop	Se ejecutó el método OnStop, el servicio deja de estar activo.
+12:54	Ok	MailService	Se ha enviado un mail con el asunto: Se ha detenido el servicio de Fichada
+14:46	Ok	OnStart	Servicio inicializado.
+14:46	Ok	MailService	Se ha enviado un mail con el asunto: Se ha inicializado el servicio de Fichada
+14:46	Ok	ConnectServer()	Cache ConnectionStringSERVER = 661705e2a569.sn.mynetname.net;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+14:46	Ok	LeerRelojes()	Buscando relojes en 
+14:46	Ok	LeerRelojes()	Se encontraron 1 relojes
+14:47	Ok	ProcesarRelojes()	Procesando 1 relojes
+14:47	Ok	ConnectServer()	Cache ConnectionStringSERVER = 661705e2a569.sn.mynetname.net;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+14:47	Ok	FuncionPrueba()	Envios a Server1: Server=661705e2a569.sn.mynetname.net;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+14:47	Ok	FuncionPrueba()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9109", "2018-07-10 11:49:14", "CLOCK")
+14:47	Error	FuncionPrueba()	SetFichada Error: El registro ingresado ya se encontraba en el sistema
+14:47	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:47	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+14:48	Ok	ProcesarRelojes()	Procesando 1 relojes
+14:48	Ok	ConnectServer()	Cache ConnectionStringSERVER = 661705e2a569.sn.mynetname.net;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+14:48	Ok	FuncionPrueba()	Envios a Server1: Server=661705e2a569.sn.mynetname.net;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+14:48	Ok	FuncionPrueba()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9109", "2018-07-10 11:49:14", "CLOCK")
+14:48	Error	FuncionPrueba()	SetFichada Error: El registro ingresado ya se encontraba en el sistema
+14:48	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+14:48	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+14:48	Ok	OnStop	Se ejecutó el método OnStop, el servicio deja de estar activo.
+14:48	Ok	MailService	Se ha enviado un mail con el asunto: Se ha detenido el servicio de Fichada

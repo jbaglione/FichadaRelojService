@@ -1,0 +1,33 @@
+Log 10/7/2018 12:00:00 a. m.
+15:11	Ok	OnStart	Servicio inicializado.
+15:11	Ok	MailService	Se ha enviado un mail con el asunto: Se ha inicializado el servicio de Fichada
+15:11	Ok	ConnectServer()	Cache ConnectionStringSERVER = 661705e2a569.sn.mynetname.net;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+15:11	Ok	LeerRelojes()	Buscando relojes en 
+15:11	Ok	LeerRelojes()	Se encontraron 1 relojes
+15:12	Ok	ProcesarRelojes()	Procesando 1 relojes
+15:12	Ok	ConnectServer()	Cache ConnectionStringSERVER = 661705e2a569.sn.mynetname.net;PORT = 1972;NAMESPACE = SHAMAN;PASSWORD = sys;USER ID = _system;
+15:12	Ok	FuncionPrueba()	pRid: 1
+15:12	Ok	FuncionPrueba()	Envios a Server1: Server=661705e2a569.sn.mynetname.net;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+15:12	Ok	FuncionPrueba()	SetFichada CacheDebug: S VAR=##class(PanelC.RelojesIngresos).SetFichada("1", "9109", "2018-07-10 11:49:14", "CLOCK")
+15:12	Error	FuncionPrueba()	SetFichada Error: El registro ingresado ya se encontraba en el sistema
+15:12	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+15:12	Ok	clkZKSoft()	Sin conexión a 192.168.4.240:4370
+15:13	Ok	OnStop	Se ejecutó el método OnStop, el servicio deja de estar activo.
+15:13	Error	MailService	No se pudo enviar el mail. Error: System.Net.Mail.SmtpException: Error al enviar correo. ---> System.IO.IOException: No se pueden leer los datos de la conexión de transporte: Se ha anulado una conexión establecida por el software en su equipo host. ---> System.Net.Sockets.SocketException: Se ha anulado una conexión establecida por el software en su equipo host
+   en System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   en System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   en System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   en System.Net.Mail.SmtpPooledStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.Stream.Dispose()
+   en System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   en System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   en System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   en System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   en System.Net.Mail.SmtpClient.GetConnection()
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en FichadaRelojService.CustomMail.Send() en C:\Users\jbaglione\Source\Repos\OFF_LINE\FichadaRelojServicie\FichadaReloj\CustomMail.cs:línea 55

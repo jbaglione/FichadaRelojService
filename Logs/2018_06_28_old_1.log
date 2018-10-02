@@ -1,0 +1,58 @@
+Log 28/06/2018 00:00:00
+11:34	Ok	OnStart	Servicio inicializado.
+11:34	Ok	MailService	Se ha enviado un mail con el asunto: Se ha inicializado el servicio de Fichada
+11:34	Error	ConnectServer()	Server=661705e2a569.sn.mynetname.net;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys; - No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+11:34	Ok	OnStop	Se ejecutó el método OnStop, el servicio deja de estar activo.
+11:34	Ok	MailService	Se ha enviado un mail con el asunto: Se ha detenido el servicio de Fichada
+11:36	Ok	OnStart	Servicio inicializado.
+11:36	Ok	MailService	Se ha enviado un mail con el asunto: Se ha inicializado el servicio de Fichada
+11:36	Ok	LeerRelojes()	Buscando relojes en 
+11:36	Ok	LeerRelojes()	Se encontraron 1 relojes
+11:37	Ok	ProcesarRelojes()	Procesando 1 relojes
+11:37	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+11:37	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+11:37	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+11:37	Ok	clkZKSoft()	Revisando Legajo: 9109
+11:37	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 11:50:44
+11:37	Ok	clkZKSoft()	Revisando Legajo: 9096
+11:37	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 21:45:36
+11:37	Ok	clkZKSoft()	Revisando Legajo: 9096
+11:37	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:7:40
+11:37	Ok	clkZKSoft()	Revisando Legajo: 9036
+11:37	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:54:10
+11:37	Ok	clkZKSoft()	Revisando Legajo: 9114
+11:37	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 7:0:19
+11:37	Ok	clkZKSoft()	Revisando Legajo: 9096
+11:37	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 22:41:17
+11:37	Ok	clkZKSoft()	Legajo:  - Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+11:37	Ok	clkZKSoft->SetFichada->vSQLCode	-119
+11:37	Ok	clkZKSoft()	Legajo:  - Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+11:37	Ok	clkZKSoft->SetFichada->vSQLCode	-119
+11:37	Ok	clkZKSoft()	Legajo:  - Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+11:37	Error	clkZKSoft()	No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+11:38	Ok	ProcesarRelojes()	Procesando 1 relojes
+11:38	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+11:38	Ok	clkZKSoft()	Conectado a 192.168.4.240:4370
+11:38	Ok	clkZKSoft()	Procesando registros de 192.168.4.240:4370
+11:38	Ok	clkZKSoft()	Revisando Legajo: 9109
+11:38	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 11:50:44
+11:38	Ok	clkZKSoft()	Revisando Legajo: 9096
+11:38	Ok	clkZKSoft()	Fecha del Registro: 2018-6-26 21:45:36
+11:38	Ok	clkZKSoft()	Revisando Legajo: 9096
+11:38	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:7:40
+11:38	Ok	clkZKSoft()	Revisando Legajo: 9036
+11:38	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 6:54:10
+11:38	Ok	clkZKSoft()	Revisando Legajo: 9114
+11:38	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 7:0:19
+11:38	Ok	clkZKSoft()	Revisando Legajo: 9096
+11:38	Ok	clkZKSoft()	Fecha del Registro: 2018-6-27 22:41:17
+11:38	Ok	clkZKSoft()	Legajo:  - Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+11:38	Ok	clkZKSoft->SetFichada->vSQLCode	-119
+11:38	Ok	clkZKSoft()	Legajo:  - Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+11:38	Ok	clkZKSoft->SetFichada->vSQLCode	-119
+11:38	Ok	clkZKSoft()	Legajo:  - Server=192.168.4.20;Port=1972;Namespace=SHAMAN;User ID=_system;Password=sys;
+11:38	Error	clkZKSoft()	No se puede mostrar un cuadro de diálogo o formulario modal cuando la aplicación no está en modo UserInteractive. Especifique el estilo ServiceNotification o DefaultDesktopOnly para mostrar una notificación de una aplicación de servicio.
+11:39	Ok	ProcesarRelojes()	Procesando 1 relojes
+11:39	Ok	clkZKSoft()	Conectandose 192.168.4.240:4370
+11:39	Ok	OnStop	Se ejecutó el método OnStop, el servicio deja de estar activo.
+11:39	Ok	MailService	Se ha enviado un mail con el asunto: Se ha detenido el servicio de Fichada
